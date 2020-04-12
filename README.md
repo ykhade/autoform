@@ -26,7 +26,7 @@ npm run lint
 ### Customize configuration
 NOTE: Add firebase API to /src/firebase.js
 
-![](https://raw.githubusercontent.com/ykhade/autoform/blob/master/src/assets/ReadmeForm.png)
+![](https://github.com/ykhade/autoform/blob/master/src/assets/ReadmeForm.png?raw=true)
 ## Built With
 * [Vue](https://vuejs.org) - A JS framework
 * [Firebase](https://firebase.google.com) - A cloud based NoSQL database
