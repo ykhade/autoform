@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.33.2",
     "debounce": "^1.2.1",
-    "firebase": "^10.5.0",
+    "firebase": "^10.6.0",
     "vue": "^3.3.7",
     "vuefire": "^3.1.17"
   },
