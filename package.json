@@ -12,7 +12,7 @@
     "debounce": "^2.0.0",
     "firebase": "^10.6.0",
     "vue": "^3.3.7",
-    "vuefire": "^3.1.17"
+    "vuefire": "^3.1.18"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.8",
